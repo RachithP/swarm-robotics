@@ -1,6 +1,7 @@
 # Control of Ensembles of Robots with Non-holonomic Constraints
 
 **Authors** & __Contributors__: Rachith Prakash, Janakiraman Kirthivasan
+
 __Affiliation__: University of Maryland, College Park
 
 Software: MATLAB 2018a.
